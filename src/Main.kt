@@ -1,6 +1,6 @@
 fun main() {
 
-    val day = Day5()
+    val day = Day9()
 
     printAnswers(day)
 }
